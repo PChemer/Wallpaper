@@ -1,0 +1,33 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "KitKat"
+            },
+            {
+                "name": "Lollipop"
+            },
+            {
+                "name": "Marshmallow"
+            },
+            {
+                "name": "Nougat"
+            },
+            {
+                "name": "NoImagesInside"
+            },
+            {
+                "name": "AnotherCategory"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Taken from gadgetraid",
+				"url": "https://sun9-66.userapi.com/impg/sccG3sRl3jp33ftmj3Z1iAbM9WBJzoq1wkxgcA/FuauIafEnj8.jpg?size=850x1056&quality=95&sign=10856205940b9b19ffffc539cd817fab&type=album",
+				"name": "Nougat Wallpaper 1",
+                "category": "nougat,anothercategory"
+			},
+		]
+}
